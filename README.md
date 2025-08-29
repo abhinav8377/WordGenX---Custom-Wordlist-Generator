@@ -40,6 +40,7 @@ python3 wordgenx.py -w <words> [options]
 
 # Arguments
 *Flag	Description*
+
 <img width="762" height="217" alt="image" src="https://github.com/user-attachments/assets/608ac31b-f002-4974-8f3d-5124b9ca2222" />
 
 
