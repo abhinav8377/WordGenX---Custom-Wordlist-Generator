@@ -40,13 +40,8 @@ python3 wordgenx.py -w <words> [options]
 
 # Arguments
 *Flag	Description*
--w, --words	Seed words (required). Example: abhinav hacker mahakal
--l, --length	Password length (default: 12).
--c, --count	Number of passwords to generate (default: 20).
---leet	Enable leetspeak substitutions.
---complex	Enable complex mangling (specials inside, reverse, random casing, duplicate).
--s, --specials	Custom special characters (default: !@#$%^&*()-_=+[]{};:,<.>/?).
--o, --output	Save generated passwords to a file.
+<img width="762" height="217" alt="image" src="https://github.com/user-attachments/assets/608ac31b-f002-4974-8f3d-5124b9ca2222" />
+
 
 # 🎯 Examples
 1. Basic password generation
