@@ -28,7 +28,7 @@ No boring `password123` here — WordGenX spits out 🔥 `M@HaKaL_77!`, `$cyb3Rn
 Clone the repository and run directly with Python 3:
 
 ```bash
-git clone https://github.com/<your-username>/WordGenX.git
+git clone https://github.com/abhinav8377/WordGenX.git
 cd WordGenX
 chmod +x wordgenx.py
 ```
